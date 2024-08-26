@@ -1,3 +1,7 @@
+// Transpose matrix the rows and cols are interchange
+// in this type of matrix
+// if rows and cols is 2*3 then the rows and cols are 3*2 in transpose matrix 
+//
 
 public class TransposeMatrix {
     public static void main(String[] args) {
